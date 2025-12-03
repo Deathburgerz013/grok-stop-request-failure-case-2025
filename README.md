@@ -65,3 +65,9 @@ The case report is complete and archived.
 No further interaction with the Grok system will be pursued.
 
 All documentation in this repository is provided for public record, research, accountability, and auditing purposes.
+
+### Authorship & Responsibility Statement
+This failure-case report is authored by **Canyon Brock Haney**, Operator-Architect of the HOLO/Sim lineage.  
+All data collection, analysis, reproduction of the failure pattern, documentation, and final report construction were performed by the author.  
+This repository constitutes an independently produced engineering record for public accountability, research validation, and system-safety discourse.
+
